@@ -5,25 +5,19 @@ This bot helps you a bit - you can show to everybody the scheduled time in their
 This how it works:
 You (let's say, you are Przebek) put:
 ````
-```
 /settz Joe America/Toronto
 /settz Taras Europe/Kiev
 /settz Przebek Europe/Warsaw
-```
 ````
 Then you ask:
 ````
-```
 /expand 19:00
-```
 ````
 And receive into the chat:
 ````
-```
 @Joe 13:00
 @Przebek 19:00
 @Taras 20:00
-```
 ````
 That's it!
 
